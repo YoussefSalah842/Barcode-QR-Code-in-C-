@@ -1,0 +1,10 @@
+c:\users\salsh\documents\visual studio 2015\Projects\QR Code Generator\QR Code Generator\bin\Debug\QR Code Generator.exe.config
+c:\users\salsh\documents\visual studio 2015\Projects\QR Code Generator\QR Code Generator\bin\Debug\QR Code Generator.exe
+c:\users\salsh\documents\visual studio 2015\Projects\QR Code Generator\QR Code Generator\bin\Debug\QR Code Generator.pdb
+c:\users\salsh\documents\visual studio 2015\Projects\QR Code Generator\QR Code Generator\bin\Debug\Zen.Barcode.Core.dll
+c:\users\salsh\documents\visual studio 2015\Projects\QR Code Generator\QR Code Generator\obj\Debug\QR Code Generator.csprojResolveAssemblyReference.cache
+c:\users\salsh\documents\visual studio 2015\Projects\QR Code Generator\QR Code Generator\obj\Debug\QR_Code_Generator.Properties.Resources.resources
+c:\users\salsh\documents\visual studio 2015\Projects\QR Code Generator\QR Code Generator\obj\Debug\QR Code Generator.csproj.GenerateResource.Cache
+c:\users\salsh\documents\visual studio 2015\Projects\QR Code Generator\QR Code Generator\obj\Debug\QR Code Generator.exe
+c:\users\salsh\documents\visual studio 2015\Projects\QR Code Generator\QR Code Generator\obj\Debug\QR Code Generator.pdb
+c:\users\salsh\documents\visual studio 2015\Projects\QR Code Generator\QR Code Generator\obj\Debug\QR_Code_Generator.MainForm.resources
